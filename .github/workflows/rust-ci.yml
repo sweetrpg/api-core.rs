@@ -9,6 +9,7 @@ on:
             - "src/**/*.rs"
             - Cargo.toml
             - .rust-version
+            - ".github/workflows/**"
     workflow_dispatch:
 
 jobs:
